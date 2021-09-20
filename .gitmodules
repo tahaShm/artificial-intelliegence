@@ -1,0 +1,21 @@
+[submodule "ai-starter-project"]
+	path = ai-starter-project
+	url = https://github.com/tahaShm/ai-starter-project.git
+[submodule "ai-search"]
+	path = ai-search
+	url = https://github.com/tahaShm/ai-search.git
+[submodule "ai-genetic-algorithms"]
+	path = ai-genetic-algorithms
+	url = https://github.com/tahaShm/ai-genetic-algorithms.git
+[submodule "ai-nlp-bayesian-networks"]
+	path = ai-nlp-bayesian-networks
+	url = https://github.com/tahaShm/ai-nlp-bayesian-networks.git
+[submodule "ai-ml-ensemble-learning"]
+	path = ai-ml-ensemble-learning
+	url = https://github.com/tahaShm/ai-ml-ensemble-learning.git
+[submodule "ai-nn-image-classification"]
+	path = ai-nn-image-classification
+	url = https://github.com/tahaShm/ai-nn-image-classification.git
+[submodule "phone-price-prediction"]
+	path = phone-price-prediction
+	url = https://github.com/tahaShm/phone-price-prediction.git
